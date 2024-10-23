@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_musical_alarm"
+        android:icon="@drawable/ic_alarm"
+        android:title="@string/title_musical_alarm" />
+
+    <item
+        android:id="@+id/navigation_today_in_history"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/title_today_in_history" />
+
+</menu>

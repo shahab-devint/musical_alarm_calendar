@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">آلارم موزیکال</string>
+    <string name="home_title">خانه</string>
+    <string name="title_dashboard">داشبورد</string>
+    <string name="title_notifications">اعلان‌ها</string>
+    <string name="world_events">رویدادهای جهان</string>
+    <string name="iran_events">رویدادهای ایران</string>
+    <string name="morning_alarm">آلارم صبحگاهی</string>
+    <string name="night_alarm">آلارم شبانگاهی</string>
+    <string name="title_musical_alarm">آلارم‌ها</string>
+    <string name="title_today_in_history">تقویم</string>
+    <string name="messages_header">پیام‌ها</string>
+    <string name="sync_header">همگام‌سازی</string>
+    <string name="signature_title">امضای شما</string>
+    <string name="app_language">زبان</string>
+    <string name="favorite_genres">ژانرهای محبوب</string>
+    <string name="settings">تنظمیات</string>
+    <string name="morning_time_range_error">لطفاً زمانی بین نیمه‌شب و ظهر انتخاب کنید</string>
+    <string name="night_time_range_error">لطفاً زمانی بین ظهر و نیمه‌شب انتخاب کنید</string>
+    <string name="song_prefetched">موسیقی بعدی بارگیری شد</string>
+    <string name="connect_request">لطفاً به اینترنت متصل شوید (ظاهراً متصل نیستید)</string>
+    <string name="alarm_canceled">آلارم لغو شد</string>
+</resources>

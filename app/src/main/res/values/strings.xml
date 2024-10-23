@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_title">Music Alarm Plus Historical Calendar</string>
+    <string name="home_title">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="world_events">World Events</string>
+    <string name="iran_events">Iran Events</string>
+    <string name="morning_alarm">Morning Alarm</string>
+    <string name="night_alarm">Night Alarm</string>
+    <string name="title_musical_alarm">Alarms</string>
+    <string name="title_today_in_history">Calendar</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+
+    <!-- Sync Preferences -->
+    <string name="app_language">Language</string>
+    <string name="favorite_genres">Favorite Genres</string>
+    <string name="settings">Preferences</string>
+    <string name="morning_time_range_error">Please select a time between 00:00 AM and 11:59 AM</string>
+    <string name="night_time_range_error">Please select a time between 12:00 PM and 11:59 PM</string>
+    <string name="song_prefetched">Song prefetched and cached.</string>
+    <string name="connect_request">Please connect to the internet to prefetch the song.</string>
+    <string name="alarm_canceled">Alarm canceled</string>
+</resources>

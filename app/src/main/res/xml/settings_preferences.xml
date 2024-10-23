@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="app_language"
+        android:title="@string/app_language"
+        android:entries="@array/language_entries"
+        android:entryValues="@array/language_values"
+        android:defaultValue="en"
+        android:icon="@drawable/language_24dp" />"/>
+
+    <MultiSelectListPreference
+        android:key="favorite_genres"
+        android:title="@string/favorite_genres"
+        android:entries="@array/genre_entries"
+        android:entryValues="@array/genre_values"
+        android:icon="@drawable/music_note_24dp"/>
+
+</PreferenceScreen>
