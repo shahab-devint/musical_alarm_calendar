@@ -28,4 +28,8 @@
     <string name="song_prefetched">Song prefetched and cached.</string>
     <string name="connect_request">Please connect to the internet to prefetch the song.</string>
     <string name="alarm_canceled">Alarm canceled</string>
+
+    <!-- Notification Channel -->
+    <string name="channel_name" translatable="false">musical_alarm</string>
+    <string name="channel_description" translatable="false">Musical Alarm</string>
 </resources>
